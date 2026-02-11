@@ -1,5 +1,39 @@
-# 💫 About Me:
-An aspiring AI / Machine Learning & Data Engineering Engineer with a strong interest in building data-driven, scalable, and intelligent systems.<br><br>I work at the intersection of data, algorithms, and software engineering, focusing on transforming raw data into meaningful insights and deployable ML solutions. My interests span from feature engineering and model optimization to data pipelines and real-world ML applications.<br><br>I enjoy:<br><br>Designing end-to-end ML pipelines<br><br>Working with structured & unstructured data<br><br>Optimizing models for performance, interpretability, and scalability<br><br>Bridging the gap between theory and real-world deployment<br><br>🧠 Areas of Interest<br><br>🤖 Machine Learning & AI<br><br>Supervised & Unsupervised Learning<br><br>Feature Engineering & Model Evaluation<br><br>XGBoost, Tree-based Models, Classical ML<br><br>📊 Data Engineering<br><br>Data preprocessing & transformation<br><br>ETL pipelines & workflow automation<br><br>Handling large datasets efficiently<br><br>🧪 Applied Research<br><br>ML for environmental & engineering datasets<br><br>Model comparison, metrics, and validation<br><br>Practical ML for decision-making systems<br><br>⚙️ Software & Systems<br><br>Python-based ML systems<br><br>Clean, reusable, and documented code<br><br>Experiment tracking & reproducibility<br><br>🛠️ Tech Stack<br><br>Languages<br><br>Python, SQL<br><br>ML / Data<br><br>NumPy, Pandas, Scikit-learn, XGBoost<br><br>Matplotlib, Seaborn<br><br>Tools & Platforms<br><br>Git & GitHub<br><br>Jupyter / Colab<br><br>Linux<br><br>Concepts<br><br>Feature Engineering<br><br>Data Pipelines<br><br>Model Evaluation (Precision, Recall, F1, ROC)<br><br>Optimization & Validation
+
+## 👋 About Me
+
+I am an aspiring **AI / Machine Learning & Data Engineering Engineer** with a strong interest in building **data-driven, scalable, and intelligent systems**.
+
+I work at the intersection of **data, algorithms, and software engineering**, focusing on transforming raw data into **actionable insights** and **deployable machine learning solutions**. My interests span **feature engineering, model optimization, data pipelines, and real-world ML applications**.
+
+I enjoy:
+- Designing **end-to-end machine learning pipelines**
+- Working with **structured and unstructured data**
+- Optimizing models for **performance, interpretability, and scalability**
+- Bridging the gap between **theoretical concepts and real-world deployment**
+
+## 🧠 Areas of Interest
+
+### 🤖 Machine Learning & Artificial Intelligence
+- Supervised & Unsupervised Learning
+- Feature Engineering & Model Evaluation
+- Tree-based Models, XGBoost, Classical ML Techniques
+
+### 📊 Data Engineering
+- Data Preprocessing & Transformation
+- ETL Pipelines & Workflow Automation
+- Efficient Handling of Large-Scale Datasets
+
+### 🧪 Applied Research
+- Machine Learning for Environmental & Engineering Data
+- Model Comparison, Performance Metrics, and Validation
+- Practical ML for Decision-Support Systems
+
+### ⚙️ Software & Systems
+- Python-based Machine Learning Systems
+- Clean, Reusable, and Well-Documented Code
+- Experiment Tracking & Reproducibility
+
+> 💡 *Focused on building reliable ML systems that turn data into measurable impact.*
 
 
 ## 🌐 Socials:
