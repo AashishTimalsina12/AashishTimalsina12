@@ -1,3 +1,7 @@
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashishTimalsina12&show_icons=true&theme=radical)
+
+
 ## 👋 About Me
 
 I am an aspiring **AI / Machine Learning & Data Engineering Engineer** with a strong focus on designing and building **scalable, data-driven, and intelligent systems**.
