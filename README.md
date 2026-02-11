@@ -1,39 +1,40 @@
-
 ## 👋 About Me
 
-I am an aspiring **AI / Machine Learning & Data Engineering Engineer** with a strong interest in building **data-driven, scalable, and intelligent systems**.
+I am an aspiring **AI / Machine Learning & Data Engineering Engineer** with a strong focus on designing and building **scalable, data-driven, and intelligent systems**.
 
-I work at the intersection of **data, algorithms, and software engineering**, focusing on transforming raw data into **actionable insights** and **deployable machine learning solutions**. My interests span **feature engineering, model optimization, data pipelines, and real-world ML applications**.
+My work lies at the intersection of **data engineering, machine learning, and software engineering**, where I focus on transforming raw and complex data into **reliable insights and production-ready machine learning solutions**. I am particularly interested in **feature engineering, model optimization, pipeline design, and applied machine learning in real-world environments**.
 
-I enjoy:
-- Designing **end-to-end machine learning pipelines**
-- Working with **structured and unstructured data**
-- Optimizing models for **performance, interpretability, and scalability**
-- Bridging the gap between **theoretical concepts and real-world deployment**
+I am motivated by solving problems that require both **analytical depth and engineering discipline**, and I enjoy translating theoretical concepts into systems that perform reliably at scale.
 
-## 🧠 Areas of Interest
+---
+
+## 🔍 Professional Interests
 
 ### 🤖 Machine Learning & Artificial Intelligence
-- Supervised & Unsupervised Learning
-- Feature Engineering & Model Evaluation
-- Tree-based Models, XGBoost, Classical ML Techniques
+- Supervised and Unsupervised Learning Techniques  
+- Feature Engineering, Model Selection, and Evaluation  
+- Tree-Based Models, XGBoost, and Classical Machine Learning Methods  
 
 ### 📊 Data Engineering
-- Data Preprocessing & Transformation
-- ETL Pipelines & Workflow Automation
-- Efficient Handling of Large-Scale Datasets
+- Data Preprocessing, Transformation, and Validation  
+- ETL Pipeline Design and Workflow Automation  
+- Efficient Processing of Large and Heterogeneous Datasets  
 
-### 🧪 Applied Research
-- Machine Learning for Environmental & Engineering Data
-- Model Comparison, Performance Metrics, and Validation
-- Practical ML for Decision-Support Systems
+### 🧪 Applied Research & Analytics
+- Machine Learning for Environmental and Engineering Applications  
+- Model Benchmarking, Metrics Analysis, and Validation Strategies  
+- Decision-Support Systems Based on Data-Driven Insights  
 
-### ⚙️ Software & Systems
-- Python-based Machine Learning Systems
-- Clean, Reusable, and Well-Documented Code
-- Experiment Tracking & Reproducibility
+### ⚙️ Software Engineering & Systems
+- Python-Based Machine Learning Systems  
+- Clean, Modular, and Well-Documented Codebases  
+- Experiment Tracking, Reproducibility, and Performance Monitoring  
 
-> 💡 *Focused on building reliable ML systems that turn data into measurable impact.*
+---
+
+> 💡 *Committed to building robust machine learning systems that bridge research, engineering, and real-world impact.*
+
+
 
 
 ## 🌐 Socials:
